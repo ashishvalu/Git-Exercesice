@@ -1,0 +1,38 @@
+1 new folder demo
+2 new repo ..... Git Exercesice
+3add few files  demo1 to demo5
+   git init
+   git add .
+   git status
+   git commite -m " add demo files"
+   git branch -m main
+   git remote add origin git@github.com:ashishvalu/Git-Exercesice.git
+   git push origin main
+
+   Commit your first change
+   git status
+   git add .
+   git commit -m "add git commands"   #demo file1  add commands
+   git push origin main
+
+7&8 git checkout -b dev
+   Create 2 new file
+   demo7
+   demo8
+
+10 11 Commit changes to `dev` branch
+    git status
+    git add .
+    git commit -m "add 2 new files dev branch"
+    git push origin dev
+
+git checkout main
+git merge main dev
+
+13. Push merged changes to origin
+git push origin main
+
+14. Checkout to `dev`
+git checkout dev
+
+15. Update existing file
