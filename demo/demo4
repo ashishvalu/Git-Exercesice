@@ -7,3 +7,5 @@ Checkout `dev`
 branchv` branch
 git push -f main
 git push -f main
+
+git rebase dev
