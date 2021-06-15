@@ -8,7 +8,12 @@
 8. Checkout `dev` branch
 1. Create new folder `demo`
 2. Create new Repo `<xyz>`
+<<<<<<< HEAD
 3. Add git repo into existing Folder
+=======
+3. Add git repo into 
+
+>>>>>>> 6fce438b052ab8d37bac908fd63b18eeefc91957
 4. Add few files
 5. Commit your first change
 6. Push to master
