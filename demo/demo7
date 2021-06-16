@@ -1,3 +1,4 @@
-You can run git rebase --abort to completely undo the rebase. Git will return you to your branch's state as it was before git rebase was called.
-You can run git rebase --skip to completely skip the commit. ...
-You can fix the conflict.
+You can run git rebase --abort to
+completely undo the rebase. Git will return you to your branch's state as it was before git rebase was called.
+You can run git rebase --skip to
+completely skip the commit. ...
